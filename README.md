@@ -1,1 +1,0 @@
-# CuBot-Discord-Cogs
